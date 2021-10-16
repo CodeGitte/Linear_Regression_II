@@ -1,3 +1,4 @@
+## SPICED Academy /// Week 03 /// Linear Regression<br><br>
 Within the third week of SPICED Academy, I conducted a machine learning model on the "bike sharing" dataset. 
 After an extensive exploratory data analysis, outliers, highly-correlated features und potential data leakage were removed from the original data set. 
 
